@@ -1,0 +1,39 @@
+Eight evaluation criteria worth 100 points, plus a bonus task worth 5 points.
+
+Data Cleaning and Preprocessing: Score the participants on how well they cleaned and preprocessed the raw data to ensure that it is consistent, complete, and ready for analysis. (15 points)
+
+Data Exploration and Visualization: Score the participants on how well they explored and visualized the data to identify patterns, correlations, and anomalies that can help them answer the research questions. (15 points)
+
+Feature Engineering and Selection: Score the participants on how well they engineered and selected features that are relevant to the research questions and can help them build accurate and interpretable models. (15 points)
+
+Model Building and Selection: Score the participants on how well they built and selected models that can accurately predict the performance metrics of interest, such as trading volume, price volatility, and liquidity depth. (15 points)
+
+Interpretability and Clarity: Score the participants on how well they explained their approach, assumptions, and results in a clear and concise manner that can be understood by both technical and non-technical audiences.(15 points)
+
+Innovation and Creativity: Score the participants on how well they demonstrated innovation and creativity in their approach, methodology, or application of existing techniques to solve the research questions. (15 points)
+
+Impact and Relevance: Score the participants on how well they demonstrated the relevance and impact of their findings to the DeFi community and how their work can be used to inform decision-making or improve the efficiency of DEXs. (15 points)
+
+Publish Data: Score the participants on their ability to publish data used in the challenge as a single data asset on the Ocean Market, using the tag #DexLiquidity. (5 points)
+
+Bonus Points: Publish the report describing your approach, assumptions and results on the Ocean Market. (5 points)
+
+
+OVERALL GOAL: analyze the impact of different liquidity provision strategies using historical data.
+Research Questions
+
+Participants are free to choose their own liquidity strategy analysis for this challenge, although the following questions are provided as examples of what they may attempt to answer.
+
+What liquidity strategies do the most cost-effective trading platforms employ to minimize fees and slippage when trading the top 10-20 ERC20 tokens by market cap?
+
+Is there a correlation between fundamental business metrics such as protocol fees, TVL, number of unique participants, etc., and the prices of governance tokens for DeFi protocols?
+
+What has been the impact of transitioning from Uniswap V2 to V3 on the profitability of individual liquidity providers and the overall liquidity of the platform?
+
+What strategies employed by liquidity provision platforms (like uniswap) have led to what outcomes? 
+ -  Uniswap encountered substantial growth in trading volumes upon reducing trading fees for certain stablecoin swaps. 
+
+Has liquidity providers enabled small-timer liquidity provision? How heavily dominnated by whales are liquidity providers?
+
+Compare uniswap v2 and v3 on businenss metrics?
+ - verify that uniswap v3 concentrated liquidity does help
