@@ -37,3 +37,18 @@ Has liquidity providers enabled small-timer liquidity provision? How heavily dom
 
 Compare uniswap v2 and v3 on businenss metrics?
  - verify that uniswap v3 concentrated liquidity does help
+
+Are liquidity pools more resistant to capital flight? Or are they resistant now?
+
+How often do significantly large swaps occur in pools? What are the corresponding price changes after that? 
+
+
+https://www.notion.so/12-Days-of-Dune-2022-2c30c5a875ce4650b19c1ef7dd60a11d
+ - these research questions are for uniswap v2, so can try to convert to uniswap v3
+
+Predict best slippage tolerance for a pool?
+
+Impact of flashbots?
+
+
+https://flipsidecrypto.github.io/ethereum-models/#!/model/model.ethereum_models.uniswapv3__ez_lp_actions
